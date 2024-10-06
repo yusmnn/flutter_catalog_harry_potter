@@ -1,16 +1,17 @@
-# flutter_catalog_harry_potter
+## Flutter Catalog Harry Potter
+- getX
+- Dio
+- MVC
 
-A new Flutter project.
+## ScreenShots
+| List Data        |  Search Data   |
+|--------------|-----------|
+| <img src="assets/screenshots/list.png" width="300"/> | <img src="assets/screenshots/search.png" width="300"/>      |
+| Filter Dialog        |  Filter List   |
+| <img src="assets/screenshots/filter_dialog.png" width="300"/> | <img src="assets/screenshots/filter.png" width="300"/>      |
+| Detail Data        |  Detail Data   |
+| <img src="assets/screenshots/detail.png" width="300"/> | <img src="assets/screenshots/detail_2.png" width="300"/>      |
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Credits
+- Image Background [Enter Post](https://x.com/Enter_Apps/status/1823460872716693926?t=6pLXOm_K-1HzJPU4B24cPg&s=19)
+- data Catalog [Enter Web](https://hp-api.onrender.com/)
